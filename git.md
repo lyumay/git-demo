@@ -13,3 +13,4 @@ git checkout -b dev;
 * 合并分支 git merge 
 * 删除分支 git branch -d dev
 * 查看分支 git branch
+* 合并策略
