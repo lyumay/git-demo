@@ -14,3 +14,5 @@ git checkout -b dev;
 * 删除分支 git branch -d dev
 * 查看分支 git branch
 * 合并策略
+
+* dev分支暂时的修改
